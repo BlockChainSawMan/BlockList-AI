@@ -58,7 +58,7 @@
 
 <img width="700" height="600" alt="Code_Generated_Image" src="https://github.com/user-attachments/assets/e3d85678-acdc-4aa5-b645-9f05abaceab5" />
 
-Elliptic 데이터셋은 비트코인 거래 데이터를 포함하고 `elliptic_txs_features.csv`, `elliptic_txs_classes.csv`, `elliptic_txs_edgelist.csv` 3개의 파일로 구성되어 있습니다. 노드와 엣지 기반으로 분류되어 있어 Neo4j 지식그래프 구축에 적합한 형태입니다.
+Elliptic 데이터셋은 스테이블 코인 거래 데이터를 포함하고 `elliptic_txs_features.csv`, `elliptic_txs_classes.csv`, `elliptic_txs_edgelist.csv` 3개의 파일로 구성되어 있습니다. 노드와 엣지 기반으로 분류되어 있어 Neo4j 지식그래프 구축에 적합한 형태입니다.
 
 ① 거래 관계도 (elliptic_txs_edgelist.csv) 
 - 행: 203,769개 열: 2개
