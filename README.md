@@ -24,7 +24,7 @@
 
 <img width="919" height="1024" alt="image" src="https://github.com/user-attachments/assets/1f88b051-79c4-4a03-9dad-f95aa797b723" />
 
-### 📂 AI Part Directory
+### 📂 AI Directory
 
 ```bash
 .
