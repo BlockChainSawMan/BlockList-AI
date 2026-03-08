@@ -22,7 +22,7 @@
 
 ### 📉 시스템 아키텍처
 
-<img width="976" height="1088" alt="image" src="https://github.com/user-attachments/assets/2cce7095-707c-4d49-92bf-267da97a76ad" />
+<img width="1952" height="1952" alt="image" src="https://github.com/user-attachments/assets/cc689972-e3ea-4172-9287-f5a31c4cc471" />
 
 ### 📂 AI Directory
 
